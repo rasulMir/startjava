@@ -148,5 +148,6 @@ public class VariablesTheme {
         int hours = ((allSeconds - seconds) / 60) / 60;
 
         System.out.println(hours + ":" + minutes + ":" + seconds);
+        System.out.println("write");
     }
 }
